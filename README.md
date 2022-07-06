@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hjharwal
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...html css javascript
-- 💞️ I’m looking to collaborate on ...web development project
-- 📫 How to reach me ...hjharwal0202@gmail.com and 9511327075
+I am Harshit Jharwal. I am a student of College of technology and engineering Udaipur. I am a Web Developer as well as a Python Developer. 
 
 <!---
 harshitprabha/harshitprabha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
